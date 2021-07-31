@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is built with react, axios and ES6, you can see the live app with [Netflix CLone](https://netflix-clone-90663.web.app/).
+
+![screenshot](public/netflix-clone-preview.png)
+
 
 ## Available Scripts
 

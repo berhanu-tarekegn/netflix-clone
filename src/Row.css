@@ -1,4 +1,5 @@
 .row {
+  color: white;
   margin-left: 20px;
 }
 .row__posters {
@@ -15,7 +16,7 @@
 .row__poster {
   object-fit: contain;
   width: 100%;
-  max-width: 100px;
+  max-width: 200px;
   margin-right: 10px;
   transition: transform 450ms;
 }
